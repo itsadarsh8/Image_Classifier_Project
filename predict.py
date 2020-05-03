@@ -9,7 +9,7 @@ import json
 from PIL import Image
 
 
-IMG_SHAPE = 224
+IMG_SHAPE = 244
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--image_dir', default='./test_images/orange_dahlia.jpg', help = 'Path to image.', type = str)
