@@ -43,7 +43,7 @@ def predict(image_path, model, top_k):
     index_temp = classes.numpy()+1
     index = index_temp.tolist()
 
-    return probs_list, index
+    return prob_list, index
 
 
 probs, classes = predict(image_path, loadmodel, top_k)
