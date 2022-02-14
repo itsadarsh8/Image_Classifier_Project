@@ -1,0 +1,2 @@
+# Image_Classifier_Project
+Udacity's Introduction to Machine Learning using TensorFlow Nanodegree project titled as 'Image Classifier with Deep Learning' attempts to train an image classifier to recognize different species of flowers. We can imagine using something like this in a phone app that tells you the name of the flower your camera is looking at. In practice we had to train this classifier, then export it for use in our application. We had used a dataset (http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) of 102 flower categories.
